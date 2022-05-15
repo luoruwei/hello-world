@@ -40,4 +40,20 @@
 
 ![smelly cat](./pexels-fauxels-3184465.jpg)
 
+别的，相对链接，有一些别的指引，可以参看这个[这个部分](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
+
+下面同样也有深色、浅色主题指引
+
+## 列表
+- 注意空格
+- 这是第二行
+
+1. 带数字的
+2. 加上空格
+
+### 嵌套
+1.一级列表内容
+  - 这是二级
+    - 这是三级
+
 
